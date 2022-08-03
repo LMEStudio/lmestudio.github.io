@@ -1,0 +1,46 @@
+---
+layout: default
+title: MD5 Calculator
+permalink: /md5-calculator/
+icon: calculator
+---
+
+<link href="./style.css" rel="stylesheet" type="text/css">
+<script src=./main.js></script>
+
+<body> 
+<div class="page clearfix">
+  <div class="left">
+      <h1>{{page.title}}</h1>
+      <hr>
+      <div class="alert alertRed" role="alert">
+        <strong>Notice: </strong>We will not store any content you enter.
+      </div>
+      <div class="panel panelBlue">
+        <div class="panelHeading panelHeadingBlue">
+          <h3 class="panelTitle">Input</h3>
+        </div>
+        <div class="panelBody"><textarea class="textarea" id="src" name="input" placeholder="Type here or paste from your clipboard."></textarea></div>
+      </div>
+      <div>
+      <button class="btnMedium buttonGreen" onclick="var v = hex_md5(document.getElementById('src').value); document.getElementById('hash').value = (document.getElementById('uc').checked) ? v.toUpperCase() : v.toLowerCase();" name="deconde">Calculate</button>
+      <label>
+        <input type="checkbox" value="y" name="uc" id="uc" onclick="document.getElementById('hash').value = (document.getElementById('uc').checked) ? document.getElementById('hash').value.toUpperCase() : document.getElementById('hash').value.toLowerCase();">Capital Words
+      </label>
+      </div>
+      <div class="outputAlert alert alertGreen" role="alert">
+        <strong>Output: </strong>
+        <input class="output" name="hash" id="hash" type="text" readonly="true" style="width: 255px; outline: none;">
+        <div style="float: right;"><button class="btnMedium buttonBlue" style="margin: 0;" onclick="copy()">Copy Manually</button></div>
+      </div>
+  </div>
+  <div class="right">
+      <div class="wrap">
+          <!-- Content -->
+          <!-- 其他div框放到这里 -->
+          <!-- <div class="side">bbbb</div> -->
+          {% include go_back.html %}
+      </div>
+  </div>
+</div>
+</body>
