@@ -4,7 +4,7 @@ Introduction to LME Institute:
 
 * We're a **non-profit** institute which deeply cultivates in computer science and embedded system.  
 
-* We're Chinese and we speak English (mainly and mainly for better communications) and Simp./Trad. Chinese. And we're a friendly united team which has a shared commons.  
+* We're Chinese and we speak mainly English (mainly for better communications) and accept Simp./Trad. Chinese and a bit of Japanese. And we're a friendly united team which has a shared commons.  
 
 **UPDATE:** Due to our heavy academic pressure, this institute project has been set aside for about 4 years, however, we are here rebuilding it.  
 
@@ -24,7 +24,7 @@ After that we will provide:
 2. Neural Network & Machine Learning tutorials
 3. CTF tricks (misc, binary, algorithm, web, etc.)
 4. Turorials for making a ADX controller (and more rhythm games controllers) from scratch
-5. Handful professional industrial software cracks
+5. A variety of professional industrial software cracks
 
 And we lacks a hand:  
 
@@ -34,11 +34,11 @@ And we lacks a hand:
 
 Our plan ~~by the end of the year~~ for the future is this site will provide:  
 
-1. Our Public Cracks Download
-2. Tutorial & Docs for LME Public Repository
+1. Our Public Cracks Free Downloads and Private Cracks Vault Authorised Access Point
+2. Tutorial & Docs for LME Public Repository Free To View and Private Repositories Authorised To Access
 
 Yours Sincerely,  
 Founder & Owner of *LME Institute*  
 Orangelop [*orangelop@qq.com*](orangelop@qq.com)  
 16 Jun. 2023  
-Modified 1st 9 Aug. 2024 by *Orangelop*  
+1st Modified 9 Aug. 2024 by *Orangelop*  
