@@ -10,7 +10,7 @@ Introduction to LME Institute:
 
 ~~We're still working on it, it's under estimated that the official site will be open to public by *the end of the year*.~~  
 
-**UPDATE:** We'll back on track in Jul. 2025. (Chief Orangelop 2024/07/09)
+**UPDATE:** We'll back on track in Jul. 2025.  
 
 Rebuilding Processes:  
 
@@ -30,7 +30,7 @@ And we lacks a hand:
 
 * So what about joining us? Just simply [email](orangelop@qq.com) us.  
 
-* We need someone who experts in embedded sys., reverse engineering, various programming langs or CTF exp. And a willing heart since we're **non-profit**.  
+* We need someone who experts in embedded sys., reverse engineering, various programming langs or CTF exp..  
 
 Our plan ~~by the end of the year~~ for the future is this site will provide:  
 
@@ -42,3 +42,4 @@ Founder & Owner of *LME Institute*
 Orangelop [*orangelop@qq.com*](orangelop@qq.com)  
 16 Jun. 2023  
 1st Modified 9 Aug. 2024 by *Orangelop*  
+2rd Modified 14 Dec. 2024 by *Orangelop* (fix typos)
